@@ -1,4 +1,4 @@
-## Hi I'm Syrine 👋
+## Hi I'm Sirine 👋
 
 🌱 I’m a Software Engineer with experience in Python, Django, JavaScript (Vue.js/React.js), PostgreSQL, and AWS services.</br>
 👀 I’m looking to collaborate on Data Science projects, leveraging my skills in SQL and Python.</br>
